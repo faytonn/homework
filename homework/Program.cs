@@ -21,6 +21,7 @@
 
             string black_hole = "Sagittarius A*";
             int light_years_distance = 25000;
+            Console.WriteLine("There is a " + black_hole + " in our solar system that is " + light_years_distance + " away from our planet, Earth.");
 
         }
     }
