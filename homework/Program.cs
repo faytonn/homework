@@ -17,7 +17,7 @@
 
             string galaxy1 = "Milky Way";
             decimal age_of_galaxy1 = 13.61M;
-            Console.WriteLine("\n" + galaxy1 + "is the spiral galaxy we currently live in is approximately" + age_of_galaxy1 + "years old");
+            Console.WriteLine("\n" + galaxy1 + " is the spiral galaxy we currently live in is approximately" + age_of_galaxy1 + "years old");
 
             string black_hole = "Sagittarius A*";
             int light_years_distance = 25000;
