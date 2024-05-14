@@ -16,7 +16,7 @@
             Console.WriteLine("The largest moon in Saturn is" + largest_saturn_moon);
 
             string galaxy1 = "Milky Way";
-            
+            decimal age_of_galaxy1 = 13.61M;
         }
     }
 }
