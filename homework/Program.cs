@@ -12,6 +12,7 @@
             Console.WriteLine("The total number of moons in Jupiter and Saturn are" + Total_moons);
             string largest_saturn_moon = "Titan";
             string largest_jupiter_moon = "Ganymede";
+            Console.WriteLine("The largest moon in Jupiter is" + largest_jupiter_moon);
         }
     }
 }
