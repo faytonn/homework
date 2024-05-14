@@ -13,6 +13,7 @@
             string largest_saturn_moon = "Titan";
             string largest_jupiter_moon = "Ganymede";
             Console.WriteLine("The largest moon in Jupiter is" + largest_jupiter_moon);
+            Console.WriteLine("The largest moon in Saturn is" + largest_saturn_moon);
         }
     }
 }
