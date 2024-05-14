@@ -23,12 +23,6 @@
             string black_hole = "Sagittarius A*";
             int light_years_distance = 25000;
             Console.WriteLine("There is a " + black_hole + " in our solar system that is " + light_years_distance + " away from our planet, Earth.");
-=======
-            Console.WriteLine("\n" + galaxy1 + " is the spiral galaxy we currently live in is approximately" + age_of_galaxy1 + " years old");
-
-            string black_hole = "Sagittarius A*";
-            int light_years_distance = 25000;
-            Console.WriteLine("\nThere is a " + black_hole + " in our solar system that is " + light_years_distance + " away from our planet, Earth.");
 
 
         }
